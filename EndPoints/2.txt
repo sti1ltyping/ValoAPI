@@ -1,0 +1,2911 @@
+/valorant/standard/profile/riot/{username}/segments/season-report?playlist=competitive
+
+{
+  "data": [
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "15a01c8a-4637-7b7b-de7b-9f906719c020",
+        "act": "3ea2b318-423b-cf86-25da-7cbb0eefbe2d",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#785EF0",
+        "name": "V26: A1",
+        "episodeName": "Season 26",
+        "actName": "Act 1",
+        "sort": 261,
+        "topAgents": [
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 230365
+          },
+          {
+            "name": "Jett",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+            "color": "#98DCFF",
+            "playtime": 20317
+          },
+          {
+            "name": "Chamber",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+            "color": "#d3564f",
+            "playtime": 4310
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 125,
+          "displayValue": "125",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 68,
+          "displayValue": "68",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 54,
+          "displayValue": "54",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3,
+          "displayValue": "3",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 54.4,
+          "displayValue": "54.4%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 2055.04,
+          "displayValue": "34m 15s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 256880,
+          "displayValue": "71h",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2595,
+          "displayValue": "2,595",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1307,
+          "displayValue": "1,307",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 50.3660886319846,
+          "displayValue": "50.4%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2128,
+          "displayValue": "2,128",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.820038535645472,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 17.024,
+          "displayValue": "17.0",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2036,
+          "displayValue": "2,036",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.784585741811175,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 16.288,
+          "displayValue": "16.3",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1.04518664047151,
+          "displayValue": "1.05",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 405342,
+          "displayValue": "405,342",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 21744,
+          "displayValue": "21,744",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": 8.37919075144509,
+          "displayValue": "8",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 156.201156069364,
+          "displayValue": "156.2",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3242.736,
+          "displayValue": "3,242.74",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 94.6839523475823,
+          "displayValue": "94.7",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 383598,
+          "displayValue": "383,598",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 24.9391727493917,
+          "displayValue": "24.9%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1435,
+          "displayValue": "1,435",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 4046,
+          "displayValue": "4,046",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 273,
+          "displayValue": "273",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 36,
+          "displayValue": "36",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 66.592,
+          "displayValue": "66.6%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 616797,
+          "displayValue": "616,797",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 237.686705202312,
+          "displayValue": "237.7",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/11.png",
+            "tierName": "Silver 3"
+          },
+          "value": null,
+          "displayValue": "Silver 3",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/11.png",
+            "tierName": "Silver 3"
+          },
+          "value": null,
+          "displayValue": "Silver 3",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "439dd42d-4a59-9e41-b50b-1ebb6810f22c",
+        "act": "aef237a0-494d-3a14-a1c8-ec8de84e309c",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#FE6100",
+        "name": "V25: A3",
+        "episodeName": "Season 25",
+        "actName": "Act 3",
+        "sort": 253,
+        "topAgents": [
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 85093
+          },
+          {
+            "name": "Jett",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+            "color": "#98DCFF",
+            "playtime": 9300
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 45,
+          "displayValue": "45",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 20,
+          "displayValue": "20",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 24,
+          "displayValue": "24",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1,
+          "displayValue": "1",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 44.4444444444444,
+          "displayValue": "44.4%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 2097.62222222222,
+          "displayValue": "34m 57s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 94393,
+          "displayValue": "26h",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 948,
+          "displayValue": "948",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 469,
+          "displayValue": "469",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 49.4725738396624,
+          "displayValue": "49.5%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 813,
+          "displayValue": "813",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.857594936708861,
+          "displayValue": "0.9",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 18.0666666666667,
+          "displayValue": "18.1",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 720,
+          "displayValue": "720",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.759493670886076,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 16,
+          "displayValue": "16.0",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1.12916666666667,
+          "displayValue": "1.13",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 157824,
+          "displayValue": "157,824",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 18499,
+          "displayValue": "18,499",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": 19.5137130801688,
+          "displayValue": "20",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 166.481012658228,
+          "displayValue": "166.5",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3507.2,
+          "displayValue": "3,507.20",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 100.333121424031,
+          "displayValue": "100.3",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 139325,
+          "displayValue": "139,325",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 18.22272215973,
+          "displayValue": "18.2%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 486,
+          "displayValue": "486",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2011,
+          "displayValue": "2,011",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 170,
+          "displayValue": "170",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 38,
+          "displayValue": "38",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 69.2,
+          "displayValue": "69.2%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 237567,
+          "displayValue": "237,567",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 250.598101265823,
+          "displayValue": "250.6",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/7.png",
+            "tierName": "Bronze 2"
+          },
+          "value": null,
+          "displayValue": "Bronze 2",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/7.png",
+            "tierName": "Bronze 2"
+          },
+          "value": null,
+          "displayValue": "Bronze 2",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "15a01c8a-4637-7b7b-de7b-9f906719c020",
+        "act": "9d85c932-4820-c060-09c3-668636d4df1b",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#785EF0",
+        "name": "V26: A2",
+        "episodeName": "Season 26",
+        "actName": "Act 2",
+        "sort": 262,
+        "topAgents": [
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 58913
+          },
+          {
+            "name": "Jett",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+            "color": "#98DCFF",
+            "playtime": 6844
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 31,
+          "displayValue": "31",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 12,
+          "displayValue": "12",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 17,
+          "displayValue": "17",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2,
+          "displayValue": "2",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 38.7096774193548,
+          "displayValue": "38.7%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 2121.1935483871,
+          "displayValue": "35m 21s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 65757,
+          "displayValue": "18h",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 659,
+          "displayValue": "659",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 322,
+          "displayValue": "322",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 48.8619119878604,
+          "displayValue": "48.9%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 590,
+          "displayValue": "590",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.895295902883156,
+          "displayValue": "0.9",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 19.0322580645161,
+          "displayValue": "19.0",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 520,
+          "displayValue": "520",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.78907435508346,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 16.7741935483871,
+          "displayValue": "16.8",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1.13461538461538,
+          "displayValue": "1.13",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 114412,
+          "displayValue": "114,412",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 15878,
+          "displayValue": "15,878",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": 24.0940819423369,
+          "displayValue": "24",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 173.614567526555,
+          "displayValue": "173.6",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3690.70967741935,
+          "displayValue": "3,690.71",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 104.485844748858,
+          "displayValue": "104.5",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 98534,
+          "displayValue": "98,534",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 26.6423357664234,
+          "displayValue": "26.6%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 438,
+          "displayValue": "438",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1152,
+          "displayValue": "1,152",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 54,
+          "displayValue": "54",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 38,
+          "displayValue": "38",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 66.9354838709677,
+          "displayValue": "66.9%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 172567,
+          "displayValue": "172,567",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 261.86191198786,
+          "displayValue": "261.9",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/10.png",
+            "tierName": "Silver 2"
+          },
+          "value": null,
+          "displayValue": "Silver 2",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/11.png",
+            "tierName": "Silver 3"
+          },
+          "value": null,
+          "displayValue": "Silver 3",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "439dd42d-4a59-9e41-b50b-1ebb6810f22c",
+        "act": "16118998-4705-5813-86dd-0292a2439d90",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#FE6100",
+        "name": "V25: A2",
+        "episodeName": "Season 25",
+        "actName": "Act 2",
+        "sort": 252,
+        "topAgents": [
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 14268
+          },
+          {
+            "name": "Iso",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/displayicon.png",
+            "color": "#674BFF",
+            "playtime": 3230
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 9,
+          "displayValue": "9",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2,
+          "displayValue": "2",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 7,
+          "displayValue": "7",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0,
+          "displayValue": "0",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 22.2222222222222,
+          "displayValue": "22.2%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 1944.22222222222,
+          "displayValue": "32m 24s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 17498,
+          "displayValue": "4h 51m",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 186,
+          "displayValue": "186",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 72,
+          "displayValue": "72",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 38.7096774193548,
+          "displayValue": "38.7%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 140,
+          "displayValue": "140",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.752688172043011,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 15.5555555555556,
+          "displayValue": "15.6",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 152,
+          "displayValue": "152",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.817204301075269,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 16.8888888888889,
+          "displayValue": "16.9",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.921052631578947,
+          "displayValue": "0.92",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 27524,
+          "displayValue": "27,524",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": -845,
+          "displayValue": "-845",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": -4.54301075268817,
+          "displayValue": "-5",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 147.978494623656,
+          "displayValue": "148.0",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3058.22222222222,
+          "displayValue": "3,058.22",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 94.5841924398626,
+          "displayValue": "94.6",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 28369,
+          "displayValue": "28,369",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 19.4805194805195,
+          "displayValue": "19.5%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 90,
+          "displayValue": "90",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 332,
+          "displayValue": "332",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 40,
+          "displayValue": "40",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 23,
+          "displayValue": "23",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 59.3333333333333,
+          "displayValue": "59.3%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 40804,
+          "displayValue": "40,804",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 219.376344086022,
+          "displayValue": "219.4",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/6.png",
+            "tierName": "Bronze 1"
+          },
+          "value": null,
+          "displayValue": "Bronze 1",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/6.png",
+            "tierName": "Bronze 1"
+          },
+          "value": null,
+          "displayValue": "Bronze 1",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "act": "4c4b8cff-43eb-13d3-8f14-96b783c90cd2",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#FE6100",
+        "name": "V25: A6",
+        "episodeName": "Season 25",
+        "actName": "Act 6",
+        "sort": 256,
+        "topAgents": [
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 43821
+          },
+          {
+            "name": "Jett",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+            "color": "#98DCFF",
+            "playtime": 6125
+          },
+          {
+            "name": "Iso",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/displayicon.png",
+            "color": "#674BFF",
+            "playtime": 1855
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 27,
+          "displayValue": "27",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 15,
+          "displayValue": "15",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 12,
+          "displayValue": "12",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0,
+          "displayValue": "0",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 55.5555555555556,
+          "displayValue": "55.6%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 1918.55555555556,
+          "displayValue": "31m 58s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 51801,
+          "displayValue": "14h",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 535,
+          "displayValue": "535",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 269,
+          "displayValue": "269",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 50.2803738317757,
+          "displayValue": "50.3%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 410,
+          "displayValue": "410",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.766355140186916,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 15.1851851851852,
+          "displayValue": "15.2",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 414,
+          "displayValue": "414",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.773831775700935,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 15.3333333333333,
+          "displayValue": "15.3",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.990338164251208,
+          "displayValue": "0.99",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 80491,
+          "displayValue": "80,491",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1509,
+          "displayValue": "1,509",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": 2.82056074766355,
+          "displayValue": "3",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 150.45046728972,
+          "displayValue": "150.5",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2981.14814814815,
+          "displayValue": "2,981.15",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 93.2688296639629,
+          "displayValue": "93.3",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 78982,
+          "displayValue": "78,982",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 17.9580014482259,
+          "displayValue": "18.0%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 248,
+          "displayValue": "248",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1035,
+          "displayValue": "1,035",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 98,
+          "displayValue": "98",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 26,
+          "displayValue": "26",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 67.8888888888889,
+          "displayValue": "67.9%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 122237,
+          "displayValue": "122,237",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 228.480373831776,
+          "displayValue": "228.5",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/10.png",
+            "tierName": "Silver 2"
+          },
+          "value": null,
+          "displayValue": "Silver 2",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/10.png",
+            "tierName": "Silver 2"
+          },
+          "value": null,
+          "displayValue": "Silver 2",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "act": "ac12e9b3-47e6-9599-8fa1-0bb473e5efc7",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#FE6100",
+        "name": "V25: A4",
+        "episodeName": "Season 25",
+        "actName": "Act 4",
+        "sort": 254,
+        "topAgents": [
+          {
+            "name": "Jett",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+            "color": "#98DCFF",
+            "playtime": 20125
+          },
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 7059
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 12,
+          "displayValue": "12",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 7,
+          "displayValue": "7",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 5,
+          "displayValue": "5",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0,
+          "displayValue": "0",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 58.3333333333333,
+          "displayValue": "58.3%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 2265.33333333333,
+          "displayValue": "37m 45s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 27184,
+          "displayValue": "7h 33m",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 264,
+          "displayValue": "264",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 140,
+          "displayValue": "140",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 53.030303030303,
+          "displayValue": "53.0%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 233,
+          "displayValue": "233",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.882575757575758,
+          "displayValue": "0.9",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 19.4166666666667,
+          "displayValue": "19.4",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 212,
+          "displayValue": "212",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.803030303030303,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 17.6666666666667,
+          "displayValue": "17.7",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1.09905660377359,
+          "displayValue": "1.10",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 43167,
+          "displayValue": "43,167",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 4283,
+          "displayValue": "4,283",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": 16.2234848484848,
+          "displayValue": "16",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 163.511363636364,
+          "displayValue": "163.5",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3597.25,
+          "displayValue": "3,597.25",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 95.2913907284768,
+          "displayValue": "95.3",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 38884,
+          "displayValue": "38,884",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 20.7278481012658,
+          "displayValue": "20.7%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 131,
+          "displayValue": "131",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 460,
+          "displayValue": "460",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 41,
+          "displayValue": "41",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 32,
+          "displayValue": "32",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 70.4166666666667,
+          "displayValue": "70.4%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 66808,
+          "displayValue": "66,808",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 253.060606060606,
+          "displayValue": "253.1",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/6.png",
+            "tierName": "Bronze 1"
+          },
+          "value": null,
+          "displayValue": "Bronze 1",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/6.png",
+            "tierName": "Bronze 1"
+          },
+          "value": null,
+          "displayValue": "Bronze 1",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "season-report",
+      "attributes": {
+        "episode": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "act": "5adc33fa-4f30-2899-f131-6fba64c5dd3a",
+        "playlist": "competitive"
+      },
+      "metadata": {
+        "color": "#FE6100",
+        "name": "V25: A5",
+        "episodeName": "Season 25",
+        "actName": "Act 5",
+        "sort": 255,
+        "topAgents": [
+          {
+            "name": "Reyna",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+            "color": "#f650d3",
+            "playtime": 171844
+          },
+          {
+            "name": "Jett",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+            "color": "#98DCFF",
+            "playtime": 47915
+          },
+          {
+            "name": "Chamber",
+            "imageUrl": "https://titles.trackercdn.com/valorant-api/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+            "color": "#d3564f",
+            "playtime": 15281
+          }
+        ]
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matchesPlayed": {
+          "displayName": "Matches Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 117,
+          "displayValue": "117",
+          "displayType": "Number"
+        },
+        "matchesWon": {
+          "displayName": "Wins",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 64,
+          "displayValue": "64",
+          "displayType": "Number"
+        },
+        "matchesLost": {
+          "displayName": "Losses",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 49,
+          "displayValue": "49",
+          "displayType": "Number"
+        },
+        "matchesTied": {
+          "displayName": "Ties",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 4,
+          "displayValue": "4",
+          "displayType": "Number"
+        },
+        "matchesWinPct": {
+          "displayName": "Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 54.7008547008547,
+          "displayValue": "54.7%",
+          "displayType": "NumberPercentage"
+        },
+        "matchesDuration": {
+          "displayName": "Matches Duration",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 2046.47008547009,
+          "displayValue": "34m 06s",
+          "displayType": "TimeSeconds"
+        },
+        "timePlayed": {
+          "displayName": "Time Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 239437,
+          "displayValue": "66h",
+          "displayType": "TimeSeconds"
+        },
+        "roundsPlayed": {
+          "displayName": "Rounds Played",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 2410,
+          "displayValue": "2,410",
+          "displayType": "Number"
+        },
+        "roundsWon": {
+          "displayName": "Rounds Won",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1237,
+          "displayValue": "1,237",
+          "displayType": "Number"
+        },
+        "roundsWinPct": {
+          "displayName": "Round Win %",
+          "displayCategory": "Game",
+          "category": "game",
+          "metadata": {
+
+          },
+          "value": 51.3278008298755,
+          "displayValue": "51.3%",
+          "displayType": "NumberPercentage"
+        },
+        "kills": {
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1964,
+          "displayValue": "1,964",
+          "displayType": "Number"
+        },
+        "killsPerRound": {
+          "displayName": "Kills/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.8149377593361,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "killsPerMatch": {
+          "displayName": "Kills/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 16.7863247863248,
+          "displayValue": "16.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deaths": {
+          "displayName": "Deaths",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1876,
+          "displayValue": "1,876",
+          "displayType": "Number"
+        },
+        "deathsPerRound": {
+          "displayName": "Deaths/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 0.778423236514523,
+          "displayValue": "0.8",
+          "displayType": "NumberPrecision1"
+        },
+        "deathsPerMatch": {
+          "displayName": "Deaths/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 16.034188034188,
+          "displayValue": "16.0",
+          "displayType": "NumberPrecision1"
+        },
+        "kDRatio": {
+          "displayName": "K/D Ratio",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1.04690831556503,
+          "displayValue": "1.05",
+          "displayType": "NumberPrecision2"
+        },
+        "damage": {
+          "displayName": "damage",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 371623,
+          "displayValue": "371,623",
+          "displayType": "Number"
+        },
+        "damageDelta": {
+          "displayName": "Damage Delta Δ",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 12386,
+          "displayValue": "12,386",
+          "displayType": "Number"
+        },
+        "damageDeltaPerRound": {
+          "displayName": "DDΔ/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Damage Dealt - Damage Received, averaged over Rounds played",
+          "metadata": {
+
+          },
+          "value": 5.13941908713693,
+          "displayValue": "5",
+          "displayType": "Number"
+        },
+        "damagePerRound": {
+          "displayName": "Damage/Round",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 154.200414937759,
+          "displayValue": "154.2",
+          "displayType": "NumberPrecision1"
+        },
+        "damagePerMatch": {
+          "displayName": "Damage/Match",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 3176.26495726496,
+          "displayValue": "3,176.26",
+          "displayType": "NumberPrecision2"
+        },
+        "damagePerMinute": {
+          "displayName": "Damage/Minute",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 93.1385964912281,
+          "displayValue": "93.1",
+          "displayType": "NumberPrecision1"
+        },
+        "damageReceived": {
+          "displayName": "Damaged Received",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 359237,
+          "displayValue": "359,237",
+          "displayType": "Number"
+        },
+        "headshotsPercentage": {
+          "displayName": "Headshot%",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 21.2874659400545,
+          "displayValue": "21.3%",
+          "displayType": "NumberPercentage"
+        },
+        "dealtHeadshots": {
+          "displayName": "Dealt Headshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 1250,
+          "displayValue": "1,250",
+          "displayType": "Number"
+        },
+        "dealtBodyshots": {
+          "displayName": "Dealt Bodyshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 4313,
+          "displayValue": "4,313",
+          "displayType": "Number"
+        },
+        "dealtLegshots": {
+          "displayName": "Dealt Legshots",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 309,
+          "displayValue": "309",
+          "displayType": "Number"
+        },
+        "mostKillsInMatch": {
+          "displayName": "Most Kills (Match)",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 37,
+          "displayValue": "37",
+          "displayType": "Number"
+        },
+        "kAST": {
+          "displayName": "KAST",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "description": "Percent of Rounds where you got a Kill, Assist, Survived or Traded",
+          "metadata": {
+
+          },
+          "value": 66.7863247863248,
+          "displayValue": "66.8%",
+          "displayType": "NumberPercentage"
+        },
+        "score": {
+          "displayName": "Score",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 570264,
+          "displayValue": "570,264",
+          "displayType": "Number"
+        },
+        "scorePerRound": {
+          "displayName": "ACS",
+          "displayCategory": "Combat",
+          "category": "combat",
+          "metadata": {
+
+          },
+          "value": 236.624066390042,
+          "displayValue": "236.6",
+          "displayType": "NumberPrecision1"
+        },
+        "rank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/9.png",
+            "tierName": "Silver 1"
+          },
+          "value": null,
+          "displayValue": "Silver 1",
+          "displayType": "String"
+        },
+        "peakRank": {
+          "displayName": "Rating",
+          "category": "mmr",
+          "metadata": {
+            "iconUrl": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiersv2/9.png",
+            "tierName": "Silver 1"
+          },
+          "value": null,
+          "displayValue": "Silver 1",
+          "displayType": "String"
+        }
+      }
+    },
+    {
+      "type": "lifetime-matchmaking-time",
+      "attributes": {
+
+      },
+      "metadata": {
+
+      },
+      "expiryDate": "0001-01-01T00:00:00+00:00",
+      "stats": {
+        "matches": {
+          "displayName": "Matches",
+          "metadata": {
+
+          },
+          "value": 503,
+          "displayValue": "503",
+          "displayType": "String"
+        },
+        "hours": {
+          "percentile": 8,
+          "displayName": "Hours",
+          "metadata": {
+
+          },
+          "value": 898967,
+          "displayValue": "249 hours",
+          "displayType": "TotalHoursFromSeconds"
+        }
+      }
+    }
+  ]
+}

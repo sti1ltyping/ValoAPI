@@ -1,13 +1,67 @@
 import random
 from typing import Literal, Union, List, Dict, ClassVar, Optional
 
-import Identity.Agent
+Agent = {
+    "Astra": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
+    "Breach": "5f8d3d7f-467b-97f3-062c-13acf203c002",
+    "Brimstone": "9b03d4c0-4051-9ca5-9234-89517a59301d",
+    "Chamber": "22697a3d-45bf-8dd7-4f03-82bd79827aca",
+    "Clove": "e5720513-437c-7f11-fd99-9a9c94da29cc",
+    "Cypher": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+    "Deadlock": "cc8b6900-4b4c-2b0a-7242-23ad090d35f4",
+    "Fade": "dade69b4-4354-20ec-9424-7ed0c9d30e15",
+    "Gekko": "e370fa57-4757-3604-3648-18ed59a1915d",
+    "Harbor": "95b78ca4-428b-ad05-0201-71bc0a0052fb",
+    "Iso": "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
+    "Jett": "add6443a-411b-e824-96bb-ced01d368b2e",
+    "KAY/O": "601dbbe7-43ce-be57-2a40-4abd24953621",
+    "Killjoy": "1e58de9c-4950-5125-93e9-a0aee9f92546",
+    "Miks": "e6164287-4348-1647-73d8-55b6c93433ed",
+    "Neon": "bb2a404d-4457-43d1-8306-f979c028078d",
+    "Omen": "8e253930-4c05-31dd-1b6c-9ad0038c3538",
+    "Phoenix": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+    "Raze": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "Reyna": "a3bc0047-443a-cb3b-b9a3-4d0923c1a0c0",
+    "Sage": "569fdd95-4d10-43ab-ca70-79becc718b46",
+    "Skye": "6f2a4f8a-413b-814c-42c2-2771f7200235",
+    "Sova": "ded3520f-4264-bfed-162d-059e869906a4",
+    "Tejo": "f6164287-4348-1647-73d8-55b6c93433ed",
+    "Veto": "548b2512-421b-10f7-33d8-55b6c93433ed",
+    "Viper": "707e2110-4f74-45e2-1456-748955113d0c",
+    "Vyse": "f728362a-4447-fd9e-1456-748955113d0c",
+    "Waylay": "66164287-4348-1647-73d8-55b6c93433ed",
+    "Yoru": "7f94d92c-4234-883e-96c6-518205252873"
+}
 
 Agents = Literal[
     "Astra",
-    "Breach"
-    # Etc...
-    ] 
+    "Breach",
+    "Brimstone",
+    "Chamber",
+    "Clove",
+    "Cypher",
+    "Deadlock",
+    "Fade",
+    "Gekko",
+    "Harbor",
+    "Iso",
+    "Jett",
+    "KAY/O",
+    "Killjoy",
+    "Neon",
+    "Omen",
+    "Phoenix",
+    "Raze",
+    "Reyna",
+    "Sage",
+    "Skye",
+    "Sova",
+    "Tejo",
+    "Veto",
+    "Viper",
+    "Vyse",
+    "Yoru"
+]
 GameMode = Literal[
     "competitive",
     "unrated"
@@ -24,16 +78,6 @@ class Userbase:
     def __str__(self):
         return self.username
     
-class AgentBase:
-
-    def __init__(self, agent: Agents):
-        self.agent = self._agent(a=agent)
-
-    def _agent(self, a: str):
-        return Identity.Agent.data.get(a, "-1")
-        
-    def __str__(self):
-        return self.agent
 
 class aiohttpClientHeader:
     user_agents = [
@@ -251,16 +295,14 @@ def header() -> aiohttpClientHeader:
     headers = {
         'User-Agent': random.choice(aiohttpClientHeader.user_agents),
         'Device-Id': random.choice(aiohttpClientHeader.device_ids),
+        "Accept": "application/json, text/plain, */*",
         "Accept-Language": "en-US,en;q=0.5",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
         "DNT": "1",
-        "TRN-Api-Key": "04e0535a-5cfb-4fc2-aa9c-983c4d540236"
-    }
-    headers = {
-        "Content-Type": "application/json",
-        "TRN-Api-Key": "04e0535a-5cfb-4fc2-aa9c-983c4d540236"
+        "Referer": "https://tracker.gg/",
+        "Origin": "https://tracker.gg"
     }
     return headers
 
